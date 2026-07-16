@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+opencv-python
+numpy
+ultralytics
+onnxruntime
+sqlalchemy
+lap
